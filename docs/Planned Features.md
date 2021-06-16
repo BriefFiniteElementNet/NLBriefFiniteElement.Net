@@ -3,6 +3,7 @@ This file contains features which will be integrated into new library.
 
 Name|Description or hyperlink|
 --- | --- |
+Loads and Settlements | Can handle loads (concentrated, uniform etc.) and nodal settlements
 Geometric nonlinearity | Considering Geometric Nonlinearity of structures, i.e. P-Δ (P-big-Delta) effect
 Material nonlinearity | Considering material nonlinearity in the library
 composite 1-d Element | Composite means traditional RC circuit, rainforced concrete and steel rebar, or steel tube of section, with or without fiber polymer coating. Element's sections are represented as a class with 2d polygonal parts. Will call this BarElement very similar to BFE
