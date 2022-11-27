@@ -19,4 +19,4 @@ The Csparse will handle sparse matrix stuff, like factorization and equation sys
 CSparse can solve to wellknown softwares like MKL or EIGEN or others through CsparseExtensions repository on the github.
 
 This layered organization is good. not to the writer, but to the maintainer. I whish i did same for BFE :)
-
+Except top layer, other layers are done and tested at the time.
