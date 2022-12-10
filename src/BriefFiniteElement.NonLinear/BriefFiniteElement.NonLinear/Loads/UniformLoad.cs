@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BriefFiniteElement.NonLinear
+namespace BriefFiniteElement.NonLinear.Loads
 {
-    public class Node
+    class UniformLoad : ElementalLoad
     {
     }
 }

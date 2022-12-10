@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BriefFiniteElement.NonLinear
 {
-    public class Node
+    public class NodalLoad
     {
     }
 }

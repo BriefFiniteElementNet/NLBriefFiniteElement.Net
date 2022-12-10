@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BriefFiniteElement.NonLinear
+namespace BriefFiniteElement.NonLinear.MpcElements
 {
-    public class Node
+    class Hing : MpcElement
     {
     }
 }
