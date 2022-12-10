@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="957.35629"
+     inkscape:cy="449.12329"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="DistanceEnd"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceEnd"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g2301">
+        <path
+           id="path2316"
+           d="M 0,0 L -2,0"
+           style="fill:none;stroke:context-fill;stroke-width:1.15;stroke-linecap:square" />
+        <path
+           id="path2312"
+           d="M 0,0 L -13,4 L -9,0 -13,-4 L 0,0 z "
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none" />
+        <path
+           id="path2314"
+           d="M 0,-4 L 0,40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="DistanceStart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceStart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g2300">
+        <path
+           id="path2306"
+           d="M 0,0 L 2,0"
+           style="fill:none;stroke:context-fill;stroke-width:1.15;stroke-linecap:square" />
+        <path
+           id="path2302"
+           d="M 0,0 L 13,4 L 9,0 13,-4 L 0,0 z "
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none" />
+        <path
+           id="path2304"
+           d="M 0,-4 L 0,40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1719" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2032"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2030" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1722" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotM"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path1783" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g23463"
+       transform="translate(-8.1943481,-2.3314953)">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99271911"
+         id="path23158"
+         cx="131.79822"
+         cy="67.964302"
+         r="1.1194205" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle23240"
+         cx="135.50233"
+         cy="67.964302"
+         r="1.1194205" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 128.54815,66.887762 h 10.38576"
+         id="path23275" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         d="m 128.54815,69.00443 h 10.38576"
+         id="path23357" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 131.99657,65.066466 -2.24663,1.821296"
+         id="path23361"
+         inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 133.72753,65.066466 -2.24663,1.821296"
+         id="path23363"
+         inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 135.45848,65.066466 -2.24663,1.821296"
+         id="path23365"
+         inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 137.18943,65.066466 -2.24662,1.821296"
+         id="path23367"
+         inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 138.9204,65.066466 -2.24663,1.821296"
+         id="path23369"
+         inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 140.65137,65.066466 -2.24663,1.821296"
+         id="path23371"
+         inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.23098785;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker-end:;marker-mid:url(#DistanceEnd)"
+       d="M 98.471489,66.980667 V 201.27963"
+       id="path927"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 96.454947,66.980667 H 71.250819"
+       id="path2020"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.7351"
+       y="60.681767"
+       id="text6970"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan6968"
+         style="stroke-width:0.264583"
+         x="75.7351"
+         y="60.681767">F</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.25, 0.25;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#DistanceEnd);marker-end:url(#DistanceStart)"
+       d="m 98.471489,50.57649 27.270871,0.02749"
+       id="path8339"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.96023px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224006"
+       x="107.54475"
+       y="59.303825"
+       id="text8423"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan8421"
+         style="stroke-width:0.224006"
+         x="107.54475"
+         y="59.303825">Δ</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 88.003433,200.43161 H 109.40524"
+       id="path964"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.181462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.652601,200.40171 -3.442585,2.79084"
+       id="path1079"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.181462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.305011,200.40171 -3.442585,2.79084"
+       id="path1081"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.181462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.957421,200.40171 -3.442585,2.79084"
+       id="path1163"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.181462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.609831,200.40171 -3.442585,2.79084"
+       id="path1165"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.181462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 101.26224,200.40171 -3.442583,2.79084"
+       id="path1167"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.181462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.91467,200.40171 -3.4426,2.79084"
+       id="path1169"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.181462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.56709,200.40171 -3.4426,2.79084"
+       id="path1171"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.181462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.21952,200.40171 -3.4426,2.79084"
+       id="path1173"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/console-beam.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.230988;marker-mid:url(#DistanceEnd)"
+       d="M 284.27816,57.266836 V 191.5658"
+       id="path1481"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.25, 0.25;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#DistanceEnd);marker-end:url(#DistanceStart)"
+       d="m 284.27859,27.633479 22.29057,0.0275"
+       id="path2070"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.96023px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224006"
+       x="287.87726"
+       y="36.997627"
+       id="text2074"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2072"
+         style="stroke-width:0.224006"
+         x="287.87726"
+         y="36.997627">Δ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.20234px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105059"
+       x="294.99054"
+       y="39.699898"
+       id="text13626"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan13624"
+         style="stroke-width:0.105059"
+         x="294.99054"
+         y="39.699898">trial</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="M 305.44497,57.266836 H 274.93805"
+       id="path17500"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2032)"
+       d="M 314.78508,191.5658 H 284.27816"
+       id="path17502"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2032)"
+       d="m 278.20299,182.67221 c -7.14259,7.14259 -7.26592,12.46841 -2.77049,16.96384 4.15982,4.15982 11.92337,2.07537 18.20231,-1.03364"
+       id="path18096"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96023px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224006"
+       x="257.98932"
+       y="57.139656"
+       id="text18877"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22119"
+         x="257.98932"
+         y="57.139656">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.20234px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105059"
+       x="262.45682"
+       y="59.841957"
+       id="text18881"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan18879"
+         style="stroke-width:0.105059"
+         x="262.45682"
+         y="59.841957">trial</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96023px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224006"
+       x="313.36655"
+       y="192.89227"
+       id="text18885"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22099"
+         x="313.36655"
+         y="192.89227">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.20234px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105059"
+       x="317.30481"
+       y="195.59457"
+       id="text18889"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan18887"
+         style="stroke-width:0.105059"
+         x="317.30481"
+         y="195.59457">trial</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96023px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224006"
+       x="279.03168"
+       y="212.40878"
+       id="text18893"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22139"
+         x="279.03168"
+         y="212.40878">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.20234px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105059"
+       x="286.14496"
+       y="215.11108"
+       id="text18897"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan18895"
+         style="stroke-width:0.105059"
+         x="286.14496"
+         y="215.11108">1,trial</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96023px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224006"
+       x="244.10649"
+       y="237.59134"
+       id="text22486"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22586"
+         x="244.10649"
+         y="237.59134">Free Body Diagram</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.609829,200.40171 c 0,-65.40276 27.132531,-67.46329 27.132531,-133.39355"
+       id="path22846"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.23943px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 284.32453,191.40582 c 0,-65.40276 22.21891,-67.46329 22.21891,-133.393499"
+       id="path24221"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96023px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224006"
+       x="322.48434"
+       y="55.194466"
+       id="text32131"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan32129"
+         x="322.48434"
+         y="55.194466">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.20234px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105059"
+       x="329.59763"
+       y="57.896767"
+       id="text32135"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan32133"
+         style="stroke-width:0.105059"
+         x="329.59763"
+         y="57.896767">2,trial</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2032)"
+       d="m 314.0231,64.141498 c 7.14259,-7.14259 7.26592,-12.46841 2.77049,-16.96384 -4.15982,-4.15982 -11.92337,-2.07537 -18.20231,1.03364"
+       id="path32137"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/drawings/beam-triald.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
