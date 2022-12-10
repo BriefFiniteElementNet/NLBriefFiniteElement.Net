@@ -4,6 +4,9 @@ using System.Text;
 
 namespace BriefFiniteElement.NonLinear
 {
+    /// <summary>
+    /// Represents a collection of nodes
+    /// </summary>
     public class NodeCollection 
     {
     }

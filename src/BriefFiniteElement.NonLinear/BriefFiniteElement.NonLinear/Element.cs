@@ -4,6 +4,9 @@ using System.Text;
 
 namespace BriefFiniteElement.NonLinear
 {
+    /// <summary>
+    /// Represents an finite elements
+    /// </summary>
     public class Element
     {
     }

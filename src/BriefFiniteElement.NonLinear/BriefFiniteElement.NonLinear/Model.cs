@@ -4,6 +4,10 @@ using System.Text;
 
 namespace BriefFiniteElement.NonLinear
 {
+ 
+    /// <summary>
+    /// Represents a finite element model
+    /// </summary>
     public class Model
     {
         public ElementCollection Elements
