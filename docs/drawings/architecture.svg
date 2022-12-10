@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.69664703"
-     inkscape:cx="-66.03057"
-     inkscape:cy="454.31903"
+     inkscape:zoom="0.64"
+     inkscape:cx="9.375"
+     inkscape:cy="432.03125"
      inkscape:window-width="1846"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -98,15 +98,21 @@
        width="869.29132"
        height="113.38583"
        id="rect42350" />
+    <rect
+       x="-529.13385"
+       y="37.795277"
+       width="869.29132"
+       height="113.38583"
+       id="rect9214" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#917c6f;stroke:#000000;stroke-width:1.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#a05a2c;stroke:#000000;stroke-width:0.777766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8242"
-       width="150"
+       width="80"
        height="40"
        x="-150"
        y="60"
@@ -114,9 +120,9 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       style="fill:#ff8080;stroke:#000000;stroke-width:1.08609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff8080;stroke:#000000;stroke-width:1.14704;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1456"
-       width="260"
+       width="290"
        height="50"
        x="-150"
        y="0"
@@ -125,7 +131,7 @@
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,57.142998,8.6576783)"
+       transform="matrix(0.26458333,0,0,0.26458333,78.343254,5.5425584)"
        id="text6496"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6498);fill:#000000;fill-opacity:1;stroke:none"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
@@ -133,10 +139,10 @@
        inkscape:export-ydpi="96"><tspan
          x="-529.13477"
          y="73.185547"
-         id="tspan74417">NLBriefFiniteElement.NET</tspan></text>
+         id="tspan23220">NLBriefFiniteElement.NET</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,4.9322742,63.915942)"
+       transform="matrix(0.26458333,0,0,0.26458333,6.2516381,58.680473)"
        id="text6496-6"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6498-3);fill:#000000;fill-opacity:1;stroke:none"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
@@ -144,32 +150,21 @@
        inkscape:export-ydpi="96"><tspan
          x="-529.13477"
          y="73.185547"
-         id="tspan74419">BriefFiniteElement.NET</tspan></text>
+         id="tspan23222">BFE.NET</tspan></text>
     <rect
-       style="fill:#ff9955;stroke:#000000;stroke-width:1.12261;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#e9c6af;stroke:#000000;stroke-width:1.12261;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9528"
        width="100"
        height="40"
-       x="10"
+       x="40"
        y="60"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,157.54178,64.246235)"
-       id="text9618"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9620);fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         x="-529.13477"
-         y="73.185547"
-         id="tspan74421">NonlinearSolver</tspan></text>
     <rect
-       style="fill:#ffdd55;stroke:#000000;stroke-width:1.08609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffdd55;stroke:#000000;stroke-width:1.14704;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect10414"
-       width="260"
+       width="290"
        height="50"
        x="-150"
        y="109.99999"
@@ -178,7 +173,7 @@
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,86.650594,118.46554)"
+       transform="matrix(0.26458333,0,0,0.26458333,109.22997,113.53044)"
        id="text10498"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10500);fill:#000000;fill-opacity:1;stroke:none"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
@@ -186,12 +181,12 @@
        inkscape:export-ydpi="96"><tspan
          x="-529.13477"
          y="73.185547"
-         id="tspan74423">CSparse.NET</tspan></text>
+         id="tspan23224">CSparse.NET</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-62.329376"
-       y="37.513996"
+       x="-46.668186"
+       y="34.347198"
        id="text18368"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
        inkscape:export-xdpi="96"
@@ -199,13 +194,13 @@
          sodipodi:role="line"
          id="tspan18366"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="-62.329376"
-         y="37.513996">(nonlinear static solver)</tspan></text>
+         x="-46.668186"
+         y="34.347198">(nonlinear static solver)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-110.67416"
-       y="92.554115"
+       x="-146.92114"
+       y="91.677231"
        id="text19820"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
        inkscape:export-xdpi="96"
@@ -213,13 +208,13 @@
          sodipodi:role="line"
          id="tspan19818"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="-110.67416"
-         y="92.554115">(inear static solver)</tspan></text>
+         x="-146.92114"
+         y="91.677231">(Linear static solver)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="38.016006"
-       y="93.070328"
+       x="69.719322"
+       y="89.375465"
        id="text20928"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
        inkscape:export-xdpi="96"
@@ -227,13 +222,13 @@
          sodipodi:role="line"
          id="tspan20926"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="38.016006"
-         y="93.070328">(ArcLength)</tspan></text>
+         x="69.719322"
+         y="89.375465">(ArcLength)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-58.8731"
-       y="146.14381"
+       x="-38.187992"
+       y="143.43887"
        id="text23002"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
        inkscape:export-xdpi="96"
@@ -241,10 +236,10 @@
          sodipodi:role="line"
          id="tspan23000"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="-58.8731"
-         y="146.14381">(Sparse Matrix Handling)</tspan></text>
+         x="-38.187992"
+         y="143.43887">(Sparse Matrix Handling)</tspan></text>
     <rect
-       style="fill:#00d400;stroke:#000000;stroke-width:0.922317;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#008033;stroke:#000000;stroke-width:0.922317;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect25174"
        width="60"
        height="50"
@@ -260,9 +255,9 @@
        inkscape:export-ydpi="96"><tspan
          x="-529.13477"
          y="73.185547"
-         id="tspan74425">MKL</tspan></text>
+         id="tspan23226">MKL</tspan></text>
     <rect
-       style="fill:#80ff80;stroke:#000000;stroke-width:0.922317;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#00ff66;stroke:#000000;stroke-width:0.922317;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect28574"
        width="60"
        height="50"
@@ -278,7 +273,7 @@
        inkscape:export-ydpi="96"><tspan
          x="-529.13477"
          y="73.185547"
-         id="tspan74427">Eigen</tspan></text>
+         id="tspan23228">Eigen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -308,15 +303,15 @@
          x="-75.75769"
          y="207.77898">(Sparse Solver)</tspan></text>
     <rect
-       style="fill:#80ff80;stroke:#000000;stroke-width:0.841956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#aaffcc;stroke:#000000;stroke-width:0.922317;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect33198"
-       width="50"
+       width="60"
        height="50"
-       x="60"
+       x="80"
        y="170" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,204.1222,175.15594)"
+       transform="matrix(0.26458333,0,0,0.26458333,245.02446,166.2353)"
        id="text33202"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect33204);fill:#000000;fill-opacity:1;stroke:none"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
@@ -324,12 +319,12 @@
        inkscape:export-ydpi="96"><tspan
          x="-529.13477"
          y="73.185547"
-         id="tspan74429">...</tspan></text>
+         id="tspan23230">...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="60.84552"
-       y="205.38893"
+       x="87.995239"
+       y="203.21852"
        id="text37072"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
        inkscape:export-xdpi="96"
@@ -337,23 +332,23 @@
          sodipodi:role="line"
          id="tspan37070"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="60.84552"
-         y="205.38893">(other Sparse</tspan><tspan
+         x="87.995239"
+         y="203.21852">(other Sparse</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="60.84552"
-         y="214.20837"
+         x="87.995239"
+         y="212.03796"
          id="tspan43076"> Solvers)</tspan></text>
     <rect
-       style="fill:#80ff80;stroke:#000000;stroke-width:0.922317;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#55ff99;stroke:#000000;stroke-width:1.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect42340"
-       width="60"
+       width="80"
        height="50"
        x="-10"
        y="170" />
     <text
        xml:space="preserve"
-       transform="matrix(0.21219713,0,0,0.26458333,105.70988,169.48126)"
+       transform="matrix(0.25040324,0,0,0.26458333,129.26704,166.97657)"
        id="text42344"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect42350);fill:#000000;fill-opacity:1;stroke:none"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
@@ -361,12 +356,12 @@
        inkscape:export-ydpi="96"><tspan
          x="-529.13477"
          y="73.185547"
-         id="tspan74431">CSparseNET</tspan></text>
+         id="tspan23232">CSparseNET</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-4.4358244"
-       y="199.54364"
+       x="-2.1006956"
+       y="195.43375"
        id="text42348"
        inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
        inkscape:export-xdpi="96"
@@ -374,17 +369,65 @@
          sodipodi:role="line"
          id="tspan42346"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="-4.4358244"
-         y="199.54364">(built in</tspan><tspan
+         x="-2.1006956"
+         y="195.43375">(built in</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="-4.4358244"
-         y="208.36308"
+         x="-2.1006956"
+         y="204.25319"
          id="tspan62586"> CSParse.net</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="-4.4358244"
-         y="217.18254"
+         x="-2.1006956"
+         y="213.07265"
          id="tspan57544">Sparse Solvers)</tspan></text>
+    <rect
+       style="fill:#d38d5f;stroke:#000000;stroke-width:1.30435"
+       id="rect9128"
+       width="90"
+       height="40"
+       x="-60"
+       y="60" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.21383226,0,0,0.26458333,62.585314,57.340973)"
+       id="text9212"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9214);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-529.13477"
+         y="73.185547"
+         id="tspan23234">CompositeSection</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,185.9727,56.27999)"
+       id="text9618"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9620);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-529.13477"
+         y="73.185547"
+         id="tspan23236">NonlinearSolver</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-44.136898"
+       y="86.342026"
+       id="text19820-8"
+       inkscape:export-filename="/media/epsi1on/8A1E82251E820B01/Codes/Vs Projects/BriefFiniteElement.NetNL/docs/phase1/architecture.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan19818-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-44.136898"
+         y="86.342026">(Biaxial Bending</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-44.136898"
+         y="95.161476"
+         id="tspan21612">concrete column)</tspan></text>
   </g>
 </svg>
