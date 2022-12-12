@@ -1,105 +1,123 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="BriefFiniteElement.NonLinear.Model" Collapsed="true">
-    <Position X="8.75" Y="4.5" Width="1.5" />
+    <Position X="6.75" Y="7.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAgAAAAAAAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Model.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
       <Property Name="Elements" />
       <Property Name="Nodes" />
     </ShowAsAssociation>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.Element" Collapsed="true">
-    <Position X="15" Y="0.5" Width="1.5" />
+    <Position X="9.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Element.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.Node" Collapsed="true">
-    <Position X="15" Y="1.5" Width="1.5" />
+    <Position X="16.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AEEAAAAAEAAAAAAAAAIAAAAgAAAAAAAAACFAAAAAAAA=</HashCode>
       <FileName>Node.cs</FileName>
     </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Loads" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.BarElement" Collapsed="true">
-    <Position X="13.25" Y="0.5" Width="1.5" />
+    <Position X="9.75" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>BarElement.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.ElementCollection" Collapsed="true">
-    <Position X="10.75" Y="2.5" Width="1.5" />
+    <Position X="7.5" Y="9.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ElementCollection.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.NodeCollection" Collapsed="true">
-    <Position X="8.75" Y="6.5" Width="1.5" />
+    <Position X="5.75" Y="9.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>NodeCollection.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.NodalLoad" Collapsed="true">
-    <Position X="13.25" Y="1.5" Width="1.5" />
+    <Position X="12.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>NodalLoad.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.ElementalLoad" Collapsed="true">
-    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Position X="7.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ElementalLoad.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.Loads.UniformLoad" Collapsed="true">
-    <Position X="8" Y="1.75" Width="1.5" />
+    <Position X="10" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AQAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
       <FileName>Loads\UniformLoad.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.Loads.ConcentratedLoad" Collapsed="true">
-    <Position X="3" Y="1.75" Width="1.5" />
+    <Position X="5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AQAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
       <FileName>Loads\ConcentratedLoad.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.Loads.PartialNonuniformLoad" Collapsed="true">
-    <Position X="5.25" Y="1.75" Width="2" />
+    <Position X="7.25" Y="1.75" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Loads\PartialNonuniformLoad.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.MpcElement">
-    <Position X="4" Y="3.5" Width="1.5" />
+    <Position X="6" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>MpcElement.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.MpcElements.Hing" Collapsed="true">
-    <Position X="2.75" Y="5" Width="1.5" />
+    <Position X="4.75" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>MpcElements\Hing.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.MpcElements.RigidElement" Collapsed="true">
-    <Position X="5" Y="5" Width="1.5" />
+    <Position X="7" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>MpcElements\RigidElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BriefFiniteElement.NonLinear.NodalLoadCollection" Collapsed="true">
+    <Position X="14" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodalLoadCollection.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

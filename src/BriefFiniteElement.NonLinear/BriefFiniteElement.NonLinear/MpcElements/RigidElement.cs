@@ -8,7 +8,7 @@ namespace BriefFiniteElement.NonLinear.MpcElements
     /// Represents a rigid element (non deformable element or infinite stiffness element)
     /// relative position of connected nodes will not change after deformation
     /// </summary>
-    class RigidElement : MpcElement
+    public class RigidElement : MpcElement
     {
     }
 }
