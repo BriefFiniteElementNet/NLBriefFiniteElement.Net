@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BriefFiniteElement.NonLinear
+namespace BriefFiniteElement.NonLinear.Elements
 {
     /// <summary>
     /// Represents a bar element who may act as truss, beam, shaft, or combination
