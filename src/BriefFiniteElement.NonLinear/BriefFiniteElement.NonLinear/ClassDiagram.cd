@@ -31,15 +31,8 @@
     </ShowAsAssociation>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="BriefFiniteElement.NonLinear.BarElement" Collapsed="true">
-    <Position X="9.75" Y="4.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>BarElement.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="BriefFiniteElement.NonLinear.ElementCollection" Collapsed="true">
-    <Position X="7.5" Y="9.5" Width="1.5" />
+    <Position X="9.5" Y="9" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ElementCollection.cs</FileName>
@@ -47,7 +40,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="BriefFiniteElement.NonLinear.NodeCollection" Collapsed="true">
-    <Position X="5.75" Y="9.5" Width="1.5" />
+    <Position X="4.75" Y="9" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>NodeCollection.cs</FileName>
@@ -118,6 +111,20 @@
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>NodalLoadCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BriefFiniteElement.NonLinear.SolverResult">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="BriefFiniteElement.NonLinear.SolverResult.SolverResultStatus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SolverResult.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SolverResult.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

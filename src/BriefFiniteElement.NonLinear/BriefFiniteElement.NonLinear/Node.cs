@@ -17,7 +17,7 @@ namespace BriefFiniteElement.NonLinear
         public Point Location { get; set; }
 
         /// <summary>Gets or sets the DoF constrains of the node</summary>
-        public Constraint Constraint { get; set; }
+        public Constraint Constraints { get; set; }
 
         /// <summary> Gets or sets the load collection of Node </summary>
         public NodalLoadCollection Loads { get; set; }
